@@ -1,4 +1,5 @@
-   ### Olá, sou o Pedro vinícius!
+  
+ <h1># Olá!! Eu sou o Pedro vinícius</h1>
 
 <div Align="center">
 
@@ -7,8 +8,17 @@
   🕹️- Gamer</br>
   🔭- Atualmente estou aprendendo PHP</br> 
    -he/him</br>
+
+  <div Align="center">
+  <a href="https://github.com/pedrosantos-21">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=pedrosantos-21&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosantos-21&layout=compact&langs_count=7&theme=dark"/>
+  </div>
+
 </div>
-  <p>==========================================</p>
+
+  <h3>=========================================</h3>
+
  <div>
       <a href="https://instagram.com/pedro_vinicius.o" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
  <a href = "mailto:pedrovinipv58@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
