@@ -47,6 +47,7 @@
   </div> 
 
 
+ ![[Snake animation]](https://github.com/whosricardo/whosricardo/blob/output/github-contribution-grid-snake.svg)
 
 
 
