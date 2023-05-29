@@ -30,7 +30,7 @@
   <img Align="center" alt="Henrique-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
           
           
-          
+        
      
  
 
@@ -38,7 +38,7 @@
 
 ##
 
-<div Aling="center">
+<div aling="center">
 <a href="https://instagram.com/pedro_vinicius.o" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
  <a href = "mailto:pedrovinipv58@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
  </a>      
