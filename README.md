@@ -8,7 +8,7 @@
   📜- Faço Bacharelado em Ciências da Computação</br>
   🖥️- Afinidade com de Ciencia de Dados</br>
   🕹️- Gamer</br>
-  🔭- Atualmente estou aprendendo PHP</br> 
+  🔭- Atualmente estou aprendendo React</br> 
    -he/him</br>
   <h3>=========================================</h3>
 </div>
