@@ -16,7 +16,7 @@
 <div align="center">
   <a href="https://github.com/Kloppx">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Kloppx&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kloppx&layout=compact&langs_count=7&theme=radical"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosantos-21&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <hr>
  
