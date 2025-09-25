@@ -5,7 +5,7 @@
  <h1># Olá!! Eu sou o Pedro vinícius</h1>
 
 
-  📜- Faço Bacharelado em Ciências da Computação</br>
+  📜- Sou Bacharelado em Sistemas da Informação</br>
   🖥️- Afinidade com Ciencia de Dados</br>
   🕹️- Gamer</br>
   🔭- Atualmente estou aprendendo React</br> 
@@ -34,7 +34,7 @@
   
 ### 📱 Contato:  
   <div>     
-  <a href="https://www.instagram.com/dev.ictor/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/pedro_vinicius.o/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-vinícius-10835a268/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
 
