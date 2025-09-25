@@ -14,8 +14,8 @@
 </div>
 <hr>
 <div align="center">
-  <a href="https://github.com/Kloppx">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Kloppx&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/pedrosantos-21">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedrosantos-21&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosantos-21&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <hr>
@@ -38,6 +38,6 @@
   <a href="https://www.linkedin.com/in/pedro-vinícius-10835a268/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
 
-<!--![Snake animation](https://github.com/Kloppx/Kloppx/blob/output/github-contribution-grid-snake.svg)-->
+<!--![Snake animation](https://github.com/pedrosantos-21/pedrosantos-21/blob/output/github-contribution-grid-snake.svg)-->
 
 
