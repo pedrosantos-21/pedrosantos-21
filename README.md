@@ -12,39 +12,32 @@
    -he/him</br>
   <h3>=========================================</h3>
 </div>
-
-<div Align="center">
-  <a href="https://github.com/pedrosantos-21">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=pedrosantos-21&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosantos-21&layout=compact&langs_count=7&theme=dark"/>
+<hr>
+<div align="center">
+  <a href="https://github.com/Kloppx">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Kloppx&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kloppx&layout=compact&langs_count=7&theme=radical"/>
 </div>
-
-
-  <div style="display: inline_block" Align="center"><br>
-  <img Align="center" alt="Henrique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img Align="center" alt="Henrique-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img Align="center" alt="Henrique-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img Align="center" alt="Henrique-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img Align="center" alt="Henrique-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img Align="center" alt="Henrique-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img Align="center" alt="Henrique-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
-          
-          
-        
-     
+<hr>
  
-
+  
+### 💻 Linguagens e Framewoks:
+<div style="display: inline_block"><br>
+  <img align="center" alt="Pedro-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Pedro-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+  <img align="center" alt="Pedro-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"> 
+  <img align="center" alt="Pedro-Python" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img align="center" alt="Pedro-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
-
-##
-
-  <div align="center">
-  <a href="https://www.instagram.com/ricardosergio__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://api.whatsapp.com/send?phone=5582991898200" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
-   </a>
-  <a href = "mailto:ricardo.sergio.pff@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ricardo-freitas-972095256/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<hr>
+ 
+  
+### 📱 Contato:  
+  <div>     
+  <a href="https://www.instagram.com/dev.ictor/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pedro-vinícius-10835a268/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
 
+<!--![Snake animation](https://github.com/Kloppx/Kloppx/blob/output/github-contribution-grid-snake.svg)-->
 
 
